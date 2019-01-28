@@ -1,4 +1,4 @@
-FROM ubuntu:18.10
+FROM debian:stretch
 LABEL maintainer="Lin Song <linsongui@gmail.com>"
 
 ENV REFRESHED_AT 2019-01-09
